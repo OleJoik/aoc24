@@ -1,4 +1,4 @@
-# Advent of Code 2024
+# Advent of SQUEEL 2024
 
 Advent of code using nothing but SQL.
 
