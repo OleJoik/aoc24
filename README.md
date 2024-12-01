@@ -2,4 +2,4 @@
 
 Advent of code using nothing but SQL.
 
-## [Day 1](day_1/)
+- [Day 1](day_1/)
